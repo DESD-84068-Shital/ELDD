@@ -1,0 +1,1 @@
+cmd_/home/shital/Desktop/practice/eldd-assignment_3/pchar.mod := printf '%s\n'   pchar.o | awk '!x[$$0]++ { print("/home/shital/Desktop/practice/eldd-assignment_3/"$$0) }' > /home/shital/Desktop/practice/eldd-assignment_3/pchar.mod

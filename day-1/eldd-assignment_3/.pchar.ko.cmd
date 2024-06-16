@@ -1,0 +1,1 @@
+cmd_/home/shital/Desktop/practice/eldd-assignment_3/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/shital/Desktop/practice/eldd-assignment_3/pchar.ko /home/shital/Desktop/practice/eldd-assignment_3/pchar.o /home/shital/Desktop/practice/eldd-assignment_3/pchar.mod.o;  true
